@@ -21,7 +21,7 @@
 1. 使用
 
 
-```
+```js
 import MenuTab from '@components/MenuTab'
 
 <MenuTab location={props.location} />
@@ -30,7 +30,7 @@ import MenuTab from '@components/MenuTab'
 
 2. 代码
 
-```
+```js
 /**
  * 菜单标签组件
  * createDate: 2020年04月29日
